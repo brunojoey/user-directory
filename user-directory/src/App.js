@@ -1,13 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Table from "./components/Table";
+import Wrapper from "./components/Wrapper"
 
 function App() {
   return (
-    <div className="App">
-
-    </div>
-  );
+    <Wrapper>
+      <h1>Company Employee Directory</h1>
+      <Table />
+    </Wrapper>
+  )
 }
 
 export default App;
