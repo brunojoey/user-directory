@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Evan Reshad",
+        "occupation": "President",
+        "salary": 200000
+    },
+    {
+        "id": 2,
+        "name": "Emily Chandler",
+        "occupation": "Vice President",
+        "salary": 185000
+    },
+    {
+        "id": 3,
+        "name": "Cloud Strife",
+        "occupation": "CEO",
+        "salary": 175000
+    },
+    {
+        "id": 4,
+        "name": "Ivan Fenix",
+        "occupation": "CFO",
+        "salary": 170000
+    },
+    {
+        "id": 5,
+        "name": "Red Baker",
+        "occupation": "Financial Manager",
+        "salary": 150000
+    },
+    {
+        "id": 6,
+        "name": "James Bryant",
+        "occupation": "Executive Manager",
+        "salary": 150000
+    },
+    {
+        "id": 7,
+        "name": "Jessie Adams",
+        "occupation": "R&D Manager",
+        "salary": 130000
+    },
+    {
+        "id": 8,
+        "name": "Tiffany Quinn",
+        "occupation": "IT Manager",
+        "salary": 130000
+    },
+    {
+        "id": 9,
+        "name": "Anna Saunders",
+        "occupation": "Media Relations Manager",
+        "salary": 120000
+    },
+    {
+        "id": 10,
+        "name": "Sarah Jackson",
+        "occupation": "Security Manager",
+        "salary": 120000
+    }
+]
