@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css"
+import "./style.css";
 
 function createTable(props) {
     return (
@@ -8,9 +8,9 @@ function createTable(props) {
                 <thead>
                     <tr>
                         <th scope="col">ID</th>
-                        <th scope="col">Name</th> 
+                        <th scope="col">Name</th>
                         <th scope="col">Occupation</th>
-                        <th scope="col">Salary</th> 
+                        <th scope="col">Salary</th>
                     </tr>
                 </thead>
                 <tbody>
