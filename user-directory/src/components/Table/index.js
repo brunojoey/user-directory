@@ -3,22 +3,22 @@ import "./style.css"
 
 function createTable(props) {
     return (
-        <div className="employee-table">
+        <div class="employee-table">
             <table>
                 <thead>
                     <tr>
                         <th scope="col">ID</th>
-                        <th scope="col">Name</th>
+                        <th scope="col">Name</th> 
                         <th scope="col">Occupation</th>
-                        <th scope="col">Salary</th>
+                        <th scope="col">Salary</th> 
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row"></th> {props.id}
-                        <td></td> {props.name}
-                        <td></td> {props.occupation}
-                        <td></td> {props.salary}
+                        <th scope="row">{props.id}</th>
+                        <td>{props.name}</td>
+                        <td>{props.occuapation}</td>
+                        <td>{props.salary}</td>
                     </tr>
                 </tbody>
             </table>
