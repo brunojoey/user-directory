@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brunojoey/user-directorystatic/css/main.15b8233c.chunk.css",
+    "main.js": "/brunojoey/user-directorystatic/js/main.7e2cdf00.chunk.js",
+    "main.js.map": "/brunojoey/user-directorystatic/js/main.7e2cdf00.chunk.js.map",
+    "runtime-main.js": "/brunojoey/user-directorystatic/js/runtime-main.7d07e88e.js",
+    "runtime-main.js.map": "/brunojoey/user-directorystatic/js/runtime-main.7d07e88e.js.map",
+    "static/js/2.f5619840.chunk.js": "/brunojoey/user-directorystatic/js/2.f5619840.chunk.js",
+    "static/js/2.f5619840.chunk.js.map": "/brunojoey/user-directorystatic/js/2.f5619840.chunk.js.map",
+    "index.html": "/brunojoey/user-directoryindex.html",
+    "precache-manifest.ce06b02e4b3541d750f59994d3811ec9.js": "/brunojoey/user-directoryprecache-manifest.ce06b02e4b3541d750f59994d3811ec9.js",
+    "service-worker.js": "/brunojoey/user-directoryservice-worker.js",
+    "static/css/main.15b8233c.chunk.css.map": "/brunojoey/user-directorystatic/css/main.15b8233c.chunk.css.map",
+    "static/js/2.f5619840.chunk.js.LICENSE.txt": "/brunojoey/user-directorystatic/js/2.f5619840.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d07e88e.js",
+    "static/js/2.f5619840.chunk.js",
+    "static/css/main.15b8233c.chunk.css",
+    "static/js/main.7e2cdf00.chunk.js"
+  ]
+}
