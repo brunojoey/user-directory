@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 function SortButtons(props) {
     return (
         <div>
             <button
-                className="btn btn-block actionButtons"
+                className='btn btn-block actionButtons'
                 onClick={() => props.handleButtonClick(props.action, props.actionBy)}
             >
                 {props.text}
