@@ -1,15 +1,16 @@
 import React from "react";
-import Button from '@material-ui/core/Button';
 
-function SortButtons() {
+function SortButtons(props) {
     return (
         <div>
-            <Button variant="contained">Sort by Name</Button>
-            <Button variant="contained">Sort by Occupation</Button>
-            <Button variant="contained">Sort by Salary</Button>
-            <Button variant="contained" href="#contained-buttons">Link</Button>
+            <button
+                className="btn btn-block actionButtons"
+                onClick={() => props.handleButtonClick(props.action, props.actionBy)}
+            >
+                {props.text}
+            </button>        
         </div>
     )
 };
 
-export default SortButtons
+export default SortButtons;
