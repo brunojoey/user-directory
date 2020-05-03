@@ -29,7 +29,7 @@ To use this application you go to the deployed link available within this README
 To contribute, clone this repository into your terminal, work on the project, then create a pull request.
 
 ## Deployment Application Link
-[Deployed Employee Directory Application](new html link)
+[Deployed Employee Directory Application](https://brunojoey.github.io/user-directory-build/)
 
 ## Application in Use
 ![Employee Directory Application Image](public/user-directory-image.png)
